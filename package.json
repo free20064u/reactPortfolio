@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-gitignore": "^1.0.12",
+    "tar": "^6.1.13"
+  }
+}
