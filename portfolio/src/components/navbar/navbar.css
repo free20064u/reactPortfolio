@@ -1,0 +1,19 @@
+.navbar {
+  background-color: blueviolet;
+  color: #fff;
+  text-align: center;
+}
+
+.navList {
+  display: flex;
+  font-size: 1.5rem;
+  padding: .5rem 0rem;
+}
+
+.navItem {
+  margin: auto;
+}
+
+.linkItem {
+  color: #fff;
+}

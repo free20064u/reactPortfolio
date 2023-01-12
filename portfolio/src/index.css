@@ -1,13 +1,43 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: #d8d3cb;
+  background-image: url(asserts/images/bullseye.png);
+  margin: 0 10%;
+  font-family: Verdana, sans-serif;
+  font-size: 100%;
+  line-height: 1.75em;
+  padding: 0px;
+  }
+
+h1 {
+  text-align: center;
+  font-family: "Marko One" ,serif;
+  font-size: 1.5em;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #57b1dc;
+  margin-top: 30px;
+  }
+
+h2 {
+  color: #d1633c;
+  font-size: 1em;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+dt {
+  font-weight: bold;
 }
+
+strong{
+  font-style: italic;
+}
+
+dt strong {
+  color: tomato;
+}
+
+#info {
+  color: teal;
+}
+
+
+

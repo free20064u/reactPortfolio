@@ -1,0 +1,17 @@
+
+  img {
+    width: 200px;
+    height: 200px;
+  }
+
+  footer {
+    text-align: center;
+    border-top: 1px solid #57b1dc;
+  }
+  
+  footer img {
+    width: 40px;
+    height: 40px;
+    margin: 0px 0.5em;
+    
+  }

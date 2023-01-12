@@ -1,0 +1,70 @@
+a {
+  text-decoration: none;
+  color: #993399;
+}
+
+h1 {
+  color:  #993399;
+  font-weight: bold;
+  font-size: 1.5em;
+  font-family: 'Marko One', Georgia, serif;
+  text-shadow: 0.05em 0.05em 0.1em lightslategray;
+  border-bottom: none;
+}
+h2 {
+  color: #cc6600;
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+
+}
+
+header {
+  background-color: rgba(145, 255, 255, .5);
+  margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  background-image: url(../../asserts/images/purpledot.png);
+  background-repeat: repeat-x;
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+  
+}
+
+h2 + p {
+  text-align: center;
+  font-style: italic;
+}
+dt {
+  font-weight: bold;
+  color: sienna;
+}
+
+#info p {
+  font-style: italic;
+  color:gray;
+}
+
+h1, h2, #info {
+  text-align: center;
+}
+
+.label {
+  font-weight: bold;
+  font-variant: small-caps;
+  font-style: normal;
+}
+
+.price {
+  font-family: Georgia, serif;
+  font-style: italic;
+  color: gray;
+}
+
+.warning, sup {
+  font-size: small;
+  color: red;
+}
+
